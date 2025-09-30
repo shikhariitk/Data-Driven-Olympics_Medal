@@ -1,67 +1,74 @@
-# Data-Driven Roadmap to win 100 Medals at 2036 Olympics
+# 🏅 Data-Driven Roadmap to Win 100 Medals at the 2036 Olympics
 
-This repository contains a comprehensive, data-driven roadmap to help India achieve a historic **100-medal** tally at the **2036 Olympics**. This project identifies key gaps in India's sports ecosystem and provides strategic recommendations to address them.
+This repository presents a **comprehensive, data-driven roadmap** to help **India achieve a historic 100-medal tally at the 2036 Olympic Games**.  
+It identifies systemic gaps in India’s sports ecosystem and provides **strategic, phased recommendations** to bridge them.
 
 ---
 
 ## Executive Summary
+India, despite being a rising global economy, has struggled to replicate its success in sports.  
+Since its Olympic debut in 1900, India has won **only 41 medals**, while nations like the **USA** and **China** consistently win over 100 medals per Olympic cycle.  
 
-India, as an emerging global economy, has excelled in many sectors but has struggled to translate this success into sports. Since its Olympic debut in 1900, India has won only 41 medals, while major sporting nations like the US and China win over 100 medals per Olympic cycle. With India expressing its desire to host the 2036 Olympic Games, a strong performance is crucial to showcase the growth of its sports ecosystem.
+With India expressing its **intent to host the 2036 Olympics**, achieving strong sporting performance will be crucial to reflect its growth and inspire global recognition.  
 
-This report, developed to help India achieve a 100-medal tally by 2036, identifies systemic deficiencies in the current sports ecosystem and offers a roadmap for transformation
+This roadmap offers a **transformative strategy** to help India reach a **100-medal tally by 2036**.
 
 ---
 
 ## Key Problems Identified
+- **Governance and Coordination Gaps**  
+  Sports is a state subject with national-level oversight, causing overlaps, inefficiencies, and weak accountability.
 
-• **Governance and Coordination Gaps:** A constitutional arrangement where sports is a state subject with national policy under the central government leads to overlapping duties and inefficient resource use.
+- **Infrastructure Deficiencies**  
+  A sharp **rural–urban divide** exists; rural areas (65.53% of the population) lack adequate sports facilities.
 
-• **Infrastructure Deficiencies:** A severe rural-urban divide exists, with rural areas, which constitute 65.53% of the population, lacking proper sports infrastructure.
+- **Inadequate Talent Identification**  
+  Absence of a systematic, nationwide scouting system leaves vast rural potential untapped.
 
-• **Inadequate Talent Identification:** There is a lack of a systematic, country-wide scouting system, leaving vast potential in rural areas untapped.
-
-• **Over-Reliance on Individual Excellence:** India's Olympic successes have historically been a result of individual grit rather than a robust institutional framework.
+- **Over-Reliance on Individual Excellence**  
+  Past Olympic successes are driven by exceptional individuals, not by a robust institutional framework.
 
 ---
 
 ## Strategic Approach
+To overcome these challenges, the roadmap suggests a **shift from an athlete-centric approach to a sport-wise, medal-focused strategy**, including:
 
-To address these challenges, the study proposes a shift from an athlete-centric to a sport-wise, medal-focused strategy. This involves:
+- **Prioritizing High Medal Potential Sports**  
+  Invest where the probability of winning medals is highest.
 
-• **Prioritizing High Medal Potential Sports:** Using a comprehensive framework to identify sports that offer the highest return on investment.
-
-• **Adopting a Sport-wise Approach:** Investing in the collective development of a talent pool for prioritized sports rather than focusing solely on a few elite athletes
-
----
-
-## Implementation Roadmap (2025-2036)
-
-The roadmap is divided into three phases, with specific actions and success metrics for each:
-
-#### **Phase 1 (2025-2027): Foundational Transformation**
-
-• **Governance:** Establish a National Sports Coordination Committee (NSCC) and audit all National Sports Federations (NSFs).
-
-• **Infrastructure:** Operationalize Khelo India Centers and upgrade 50 rural SAI centers. Achieve 70% rural coverage of Grade-A facilities.
-
-• **Talent Identification:** Strengthen the KIRTI scheme to identify over 5,000 priority athletes
-
-#### **Phase 2 (2028-2032): Strategic Acceleration**
-
-• **Discipline Prioritization:** Allocate 65% of the budget to the top five sports and double funding for key sports like Athletics and Swimming.
-
-• **Athlete Development:** Make sports science mandatory for TOPS athletes and fill event-specific cohorts using the data dashboard.
-
-• **Global Integration:** Ensure a 90% qualification rate in priority sports and facilitate international exposure for over 200 athletes annually
-
-#### **Phase 3 (2033-2036): Performance Optimization**
-
-• **Final Preparation:** Focus on injury prevention, stress management, and elite coaching to reduce near-misses at the 2036 Olympics.
-
-• **Hosting Readiness:** Complete the upgrading of all Olympic venues and conduct multi-sport test events by 2035.
-
-By systematically implementing these recommendations, India can build a sustainable sports ecosystem that nurtures talent, enhances performance, and achieves its ambitious goal of winning 100 Olympic medals in 2036.
+- **Sport-wise Investment**  
+  Build **deep talent pools per sport** instead of depending on a handful of elite athletes.
 
 ---
 
+## Implementation Roadmap (2025–2036)
 
+### **Phase 1 (2025–2027): Foundational Transformation**
+- **Governance**: Establish a *National Sports Coordination Committee (NSCC)* and audit all National Sports Federations (NSFs).  
+- **Infrastructure**: Upgrade 50 rural SAI centers, operationalize *Khelo India* centers, and achieve **70% rural Grade-A coverage**.  
+- **Talent Identification**: Scale up *KIRTI* to scout **5,000+ priority athletes**.  
+
+---
+
+### **Phase 2 (2028–2032): Strategic Acceleration**
+- **Discipline Prioritization**: Allocate **65% of the budget** to the top 5 medal-potential sports. Double funding for Athletics & Swimming.  
+- **Athlete Development**: Mandate **sports science** integration in *TOPS*; build event-specific cohorts using data dashboards.  
+- **Global Integration**: Achieve **90% qualification rates** in priority sports; ensure **200+ athletes/year** gain international exposure.  
+
+---
+
+### **Phase 3 (2033–2036): Performance Optimization**
+- **Final Preparation**: Emphasize **injury prevention, stress management, elite coaching** to convert near-misses into podium finishes.  
+- **Hosting Readiness**: Upgrade all Olympic venues, conduct **multi-sport test events** by 2035.  
+
+---
+
+## Vision 2036
+By systematically implementing these measures, India can:  
+- Create a **sustainable sports ecosystem**.  
+- Unlock hidden **rural talent potential**.  
+- Elevate global standing with a **100-medal Olympic performance**.  
+
+---
+
+## 📂 Repository Structure
