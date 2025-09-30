@@ -70,3 +70,8 @@ By systematically implementing these measures, India can:
 - Elevate global standing with a **100-medal Olympic performance**.  
 
 ---
+
+For queries, feel free to reach out:  
+📧 shikharc22@iitk.ac.in  
+
+
