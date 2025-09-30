@@ -71,6 +71,11 @@ By systematically implementing these measures, India can:
 
 ---
 
+You can view/download the full project report here:  
+• [**Final Report**](https://drive.google.com/file/d/1RKIp3pea2qB9XidzGFyab3WVcs2Md-vU/view?usp=sharing)
+
+---
+
 For queries, feel free to reach out:  
 📧 shikharc22@iitk.ac.in  
 
