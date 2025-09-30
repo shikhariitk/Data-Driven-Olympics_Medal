@@ -38,7 +38,7 @@ To address these challenges, the study proposes a shift from an athlete-centric 
 
 The roadmap is divided into three phases, with specific actions and success metrics for each:
 
-#### Phase 1 (2025-2027): Foundational Transformation
+#### **Phase 1 (2025-2027): Foundational Transformation**
 
 • **Governance:** Establish a National Sports Coordination Committee (NSCC) and audit all National Sports Federations (NSFs).
 
@@ -46,7 +46,7 @@ The roadmap is divided into three phases, with specific actions and success metr
 
 • **Talent Identification:** Strengthen the KIRTI scheme to identify over 5,000 priority athletes
 
-#### Phase 2 (2028-2032): Strategic Acceleration
+#### **Phase 2 (2028-2032): Strategic Acceleration**
 
 • **Discipline Prioritization:** Allocate 65% of the budget to the top five sports and double funding for key sports like Athletics and Swimming.
 
@@ -54,7 +54,7 @@ The roadmap is divided into three phases, with specific actions and success metr
 
 • **Global Integration:** Ensure a 90% qualification rate in priority sports and facilitate international exposure for over 200 athletes annually
 
-#### Phase 3 (2033-2036): Performance Optimization
+#### **Phase 3 (2033-2036): Performance Optimization**
 
 • **Final Preparation:** Focus on injury prevention, stress management, and elite coaching to reduce near-misses at the 2036 Olympics.
 
